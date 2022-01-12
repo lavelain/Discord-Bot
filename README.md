@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @lavelain
-- 👀 I’m interested in becoming a System Administrator
-- 🌱 I’m currently learning python and Javascript
 - 💞️ I use this bot for my Discord
-- 📫 feel free to reach out at Lavelain.com
+
 
 You'll have to import your own node modules in
 
