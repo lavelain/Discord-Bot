@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lavelain
 - 👀 I’m interested in becoming a System Administrator
 - 🌱 I’m currently learning python and Javascript
-- 💞️ I’m looking to collaborate to further this goal
+- 💞️ I use this bot for my Discord
 - 📫 feel free to reach out at Lavelain.com
 
 <!---
